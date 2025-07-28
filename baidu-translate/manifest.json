@@ -1,6 +1,12 @@
 {
-  "name": "baiduTranslatePlugin",
+  "name": "translationPlugin",
   "version": 1.0,
   "mainExport": "./main",
-  "processingTypes": ["/翻译"]
+  "auther": "ZhouZhouoO, iYeXin",
+  "processingTypes": [
+    "翻译",
+    "/翻译",
+    "语言",
+    "/语言"
+  ]
 }
