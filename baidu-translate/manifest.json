@@ -1,0 +1,6 @@
+{
+  "name": "baiduTranslatePlugin",
+  "version": 1.0,
+  "mainExport": "./main",
+  "processingTypes": ["/翻译"]
+}
